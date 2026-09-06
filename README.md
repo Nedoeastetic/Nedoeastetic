@@ -75,3 +75,4 @@
   <img src="https://komarev.com/ghpvc/?username=Nedoeastetic&style=for-the-badge&color=blueviolet" alt="profile views"/>
 </p>
 
+![metrics](./metrics.svg)
