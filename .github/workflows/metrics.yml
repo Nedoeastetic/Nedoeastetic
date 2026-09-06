@@ -1,0 +1,39 @@
+name: metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # раз в день
+  workflow_dispatch:      # запуск вручную
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          # --- базовые настройки ---
+          template: classic
+          base: header, activity, community, repositories, metadata
+
+          # --- плагины ---
+          plugin_languages: yes
+          plugin_languages_limit: 6
+          plugin_languages_analysis_timeout: 15
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+
+          plugin_stars: yes
+          plugin_stars_limit: 4
+
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_facts: yes
