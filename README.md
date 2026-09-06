@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/static/v1?message=Website&logo=googlechrome&label=&color=222222&logoColor=white&style=for-the-badge" alt="website"/>
   </a> -->
 </p>
-📕 Мои статьи
+
 ### 📕 Мои статьи
 
 - [Применение архитектуры Vision Transformer (ViT) для автоматизированного мониторинга биоразнообразия с помощью дронов ч.1](https://ifbest.org/primenenie-arkhitekturi-vision-transformer-vit-dlya-avtomatizirovannogo-monitoringa-bioraznoobraziya-s-pomoshchyu-dronov)
