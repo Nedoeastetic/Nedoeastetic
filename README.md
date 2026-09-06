@@ -4,7 +4,7 @@
 
 ## 👩‍💻 Обо мне
 
-Привет! Меня зовут Мария, я fullstack- и mobile-разработчик.
+Привет! Меня зовут Мария, я fullstack и mobile-разработчик.
 Могу создать вам  приложение/сервис/сайт с нуля!
 
 - 🔭 Закончила СПО
@@ -54,19 +54,19 @@
 
 ## 🐍 Активность
 
-![snake](https://raw.githubusercontent.com/ТВОЙ_НИК/ТВОЙ_НИК/output/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/Nedoeastetic/Nedoeastetic/output/github-contribution-grid-snake.svg)
 
 ## 🔥 Статистика
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ТВОЙ_НИК&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="streak stats"/>
+  <img src="https://streak-stats.demolab.com/?user=Nedoeastetic&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="streak stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" alt="stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" alt="top languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nedoeastetic&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" alt="stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nedoeastetic&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" alt="top languages" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ТВОЙ_НИК&style=for-the-badge&color=blueviolet" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Nedoeastetic&style=for-the-badge&color=blueviolet" alt="profile views"/>
 </p>
